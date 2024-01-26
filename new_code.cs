@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         string hello = "Hello";
+        string hello2 = "Привет";
 
         Print(hello);
 
