@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string hello = "Hello";
-        string hello2 = "Привет";
+        string hello = "Hello2";
 
         Print(hello);
 
